@@ -2,6 +2,7 @@ Le texte qui sera inséré aprés cette ligne sera une modification concernant l
 Allo le monde
 
 Le texte qui sera inséré aprés cette ligne sera une modification concernant la tâche B :
+Est-ce que tout va bien?
 
 Le texte qui sera inséré aprés cette ligne sera une modification concernant la tâche A :
 heeeeeeeeeeeeeoooooooooooh le monde, est-ce que tu vas bien?
